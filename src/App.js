@@ -3,6 +3,8 @@ import { MoviesData, renderMovieTitle } from './movies-data';
 import Autocomplete from 'react-autocomplete';
 import './App.css';
 
+
+
 class App extends Component {
 
   state = { val: '' };
